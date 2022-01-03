@@ -1,4 +1,4 @@
-const SERVER = 'https://web-rtc-backend-test.herokuapp.com/';
+const SERVER = 'https://web-rtc-backend-test.herokuapp.com';
 
 export const getApi = (api) => {
     return {
